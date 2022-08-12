@@ -1,5 +1,5 @@
 <h1>Hello World! Eu sou o Ramon Nascimento </h1>
-<p>Sou um Desenvolvedor e Programador de 24 anos , apaixonado pela área da tecnologia e suas inovações atualmente Cursando a área de Analise e desenvolvimento de Sistemas, estou sempre em busca de novos aprendizados e cursos para que eu possa aprimorar minhas habilidades e expandir meus conhecimentos me adaptando constantemente ao mercado de trabalho. </p>
+<p>Sou um Desenvolvedor e Programador , apaixonado pela área da tecnologia e suas inovações atualmente Cursando a área de Analise e desenvolvimento de Sistemas, estou sempre em busca de novos aprendizados e cursos para que eu possa aprimorar minhas habilidades e expandir meus conhecimentos me adaptando constantemente ao mercado de trabalho. </p>
 
 
 
@@ -14,5 +14,5 @@
 <div>
 <a href="github.com/ramonwordads">
 <img height="180em"  src="https://gitHub-readme-stats.vercel.app/api?username=ramonwordads&show_icons=true&theme=dark&include_all_comits=true&count_private=true">
-<img height="180px" width="500px" src="https://gitHub-readme-stats.vercel.app/api/top-langs/?username=ramonwordads&layout=compact&langs_count=16&theme=dark">
+<img height="180px" width="450px" src="https://gitHub-readme-stats.vercel.app/api/top-langs/?username=ramonwordads&layout=compact&langs_count=16&theme=dark">
 </div>
