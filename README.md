@@ -13,6 +13,6 @@
   
 <div>
 
-<img height="180em"  src="https://gitHub-readme-stats.vercel.app/api?username=ramonwordads&show_icons=true&theme=dark&include_all_comits=true&count_private=true" >
-<img height="180px" width="450px" src="https://gitHub-readme-stats.vercel.app/api/top-langs/?username=ramonwordads&layout=compact&langs_count=16&theme=dark">
+<a href="https://github.com/ramonwordads"><img height="180em"  src="https://gitHub-readme-stats.vercel.app/api?username=ramonwordads&show_icons=true&theme=dark&include_all_comits=true&count_private=true" ></a>
+<a href="https://github.com/ramonwordads"> <img height="180px" width="450px" src="https://gitHub-readme-stats.vercel.app/api/top-langs/?username=ramonwordads&layout=compact&langs_count=16&theme=dark"></a>
 </div>
