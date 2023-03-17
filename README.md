@@ -1,5 +1,5 @@
 <h1>Hello World! Eu sou o Ramon Nascimento </h1>
-<p> Desenvolvedor apaixonado pela área da tecnologia e suas inovações atualmente Cursando a área de Analise e desenvolvimento de Sistemas, estou sempre em busca de novos aprendizados e cursos para que eu possa aprimorar minhas habilidades e expandir meus conhecimentos me adaptando constantemente ao mercado de trabalho. </p>
+<p>Sou Desenvolvedor Front-end Junior e estou Cursando Análise e desenvolvimento de sistemas 4° período.</p>
 
 
 
