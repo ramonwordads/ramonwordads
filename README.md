@@ -1,8 +1,3 @@
-<h1>Hello World! Eu sou o Ramon Nascimento </h1>
-<p>Sou Desenvolvedor Front-end Junior e estou Cursando Análise e desenvolvimento de sistemas 4° período.</p>
-
-
-
 
   <strong>Main Skills</strong>
   
